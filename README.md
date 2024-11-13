@@ -1,4 +1,4 @@
-Student Performance Analysis
+Student Performance Analysis ---
 This project analyzes student engagement and submission accuracy based on event and submission data. The analysis focuses on:
 
 Engagement Duration: The time span from the student's first to last recorded action.
@@ -15,10 +15,11 @@ You will not find the file event_data_train.csv in this repository because it's 
 
 Download event_data_train.csv from here <!-- (https://www.kaggle.com/datasets/kapturovalexander/predict-students-drop-out-of-the-course/data?select=event_data_train.csv) -->
 
-How to Set Up
-Download event_data_train.csv from the link above.
-Place the event_data_train.csv file in the root directory of this project and zip it.
-Ensure submissions_data_train.csv is also in the root directory.
+---How to Set Up:
+1. Download event_data_train.csv from the link above.
+2. Place the event_data_train.csv file in the root directory of this project and zip it.
+3. Ensure submissions_data_train.csv is also in the root directory. ---
+
 Prerequisites
 Python 3.x
 Pandas, Seaborn, Matplotlib
